@@ -1,4 +1,4 @@
-# TheSportsDB Streaming Stack (Kafka → Spark → Airflow/Grafana)
+# The SportsDB Streaming Stack (Kafka → Spark → Airflow/Grafana)
 
 **Date:** 2025-08-23
 
